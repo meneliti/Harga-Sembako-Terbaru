@@ -2,13 +2,13 @@
 
 Pantauan harga rata-rata **26 komoditas barang kebutuhan pokok (sembako)** tingkat provinsi di seluruh Indonesia, dikelompokkan per kategori agar mudah dibaca. Data diperbarui otomatis **setiap 6 jam** oleh script scraper di repo ini.
 
-> 📅 **Data per tanggal: 7 Oktober 2026** — terakhir diperbarui: 08 Oktober 2026, 11:57 WIB
+> 📅 **Data per tanggal: 7 Oktober 2026** — terakhir diperbarui: 08 Oktober 2026, 12:19 WIB
 
 ## 📊 Tabel Harga Sembako
 
 | Komoditas | Satuan | Harga Rata-rata | Terendah | Tertinggi | Perubahan |
 |---|---|---|---|---|---|
-| **Sem Bahan Pokok** | | | | | |
+| **Bahan Pokok** | | | | | |
 | Beras | kg | **Rp15.084** | Rp13.478 | Rp21.500 | ▲ 0.05% |
 | Jagung | kg | **Rp10.100** | Rp6.500 | Rp21.375 | ▬ 0.00% |
 | Kedelai | kg | **Rp15.637** | Rp11.812 | Rp38.667 | ▬ 0.00% |
@@ -41,7 +41,7 @@ Pantauan harga rata-rata **26 komoditas barang kebutuhan pokok (sembako)** tingk
 
 | Komoditas | Satuan | Harga Rata-rata | Terendah | Tertinggi | Perubahan |
 |---|---|---|---|---|---|
-| **Sem Bahan Pokok** | | | | | |
+| **Bahan Pokok** | | | | | |
 | Beras | kg | **Rp15.084** | Rp13.478 | Rp21.500 | ▲ 0.05% |
 | Jagung | kg | **Rp10.100** | Rp6.500 | Rp21.375 | ▬ 0.00% |
 | Kedelai | kg | **Rp15.637** | Rp11.812 | Rp38.667 | ▬ 0.00% |
@@ -71,6 +71,10 @@ Pantauan harga rata-rata **26 komoditas barang kebutuhan pokok (sembako)** tingk
 | Minyak Sawit | liter | **Rp20.228** | Rp17.867 | Rp37.000 | ▬ 0.00% |
 | Garam | kg | **Rp11.493** | Rp8.667 | Rp20.000 | ▬ 0.00% |
 | Susu | liter | **Rp35.271** | Rp13.167 | Rp48.667 | ▬ 0.00% |
+
+## 👥 Kunjungan
+
+<img src="https://s01.flagcounter.com/countxl/qaoY/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Visitor Counter">
 
 ## 📈 Keterangan
 
