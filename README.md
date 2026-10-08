@@ -2,74 +2,74 @@
 
 Pantauan harga rata-rata **26 komoditas barang kebutuhan pokok (sembako)** tingkat provinsi di seluruh Indonesia, dikelompokkan per kategori agar mudah dibaca. Data diperbarui otomatis **setiap 6 jam** oleh script scraper di repo ini.
 
-> 📅 **Data per tanggal: 7 Oktober 2026** — terakhir diperbarui: 08 Oktober 2026, 12:19 WIB
+> 📅 **Data per tanggal: 8 Oktober 2026** — terakhir diperbarui: 08 Oktober 2026, 17:17 WIB
 
 ## 📊 Tabel Harga Sembako
 
 | Komoditas | Satuan | Harga Rata-rata | Terendah | Tertinggi | Perubahan |
 |---|---|---|---|---|---|
 | **Bahan Pokok** | | | | | |
-| Beras | kg | **Rp15.084** | Rp13.478 | Rp21.500 | ▲ 0.05% |
+| Beras | kg | **Rp15.097** | Rp13.478 | Rp21.500 | ▲ 0.09% |
 | Jagung | kg | **Rp10.100** | Rp6.500 | Rp21.375 | ▬ 0.00% |
-| Kedelai | kg | **Rp15.637** | Rp11.812 | Rp38.667 | ▬ 0.00% |
-| Tepung Terigu | kg | **Rp13.506** | Rp10.583 | Rp23.000 | ▲ 0.05% |
+| Kedelai | kg | **Rp15.652** | Rp11.812 | Rp38.667 | ▲ 0.09% |
+| Tepung Terigu | kg | **Rp13.506** | Rp10.583 | Rp23.000 | ▬ 0.00% |
 | Mie Instan | pcs | **Rp3.481** | Rp3.000 | Rp5.000 | ▬ 0.00% |
 | **Daging & Telur** | | | | | |
-| Daging Ayam | kg | **Rp67.797** | Rp50.106 | Rp111.500 | ▬ 0.00% |
-| Daging Ruminansia | kg | **Rp124.790** | Rp92.083 | Rp170.000 | ▬ 0.00% |
-| Telur Ayam | kg | **Rp47.721** | Rp33.872 | Rp70.500 | ▼ 0.14% |
-| Ikan | kg | **Rp58.070** | Rp40.708 | Rp106.667 | ▲ 0.07% |
-| Udang | kg | **Rp77.441** | Rp53.333 | Rp125.000 | ▲ 0.15% |
+| Daging Ayam | kg | **Rp67.815** | Rp50.169 | Rp111.500 | ▬ 0.00% |
+| Daging Ruminansia | kg | **Rp124.751** | Rp92.083 | Rp170.000 | ▬ 0.00% |
+| Telur Ayam | kg | **Rp47.867** | Rp33.872 | Rp70.500 | ▲ 0.31% |
+| Ikan | kg | **Rp58.081** | Rp40.431 | Rp106.667 | ▬ 0.00% |
+| Udang | kg | **Rp77.401** | Rp53.333 | Rp125.000 | ▼ 0.05% |
 | **Sayur & Buah** | | | | | |
-| Bawang | kg | **Rp37.469** | Rp27.736 | Rp66.667 | ▼ 0.14% |
-| Cabai | kg | **Rp80.975** | Rp48.500 | Rp128.542 | ▲ 0.50% |
-| Tomat | kg | **Rp14.223** | Rp8.370 | Rp30.000 | ▲ 0.94% |
-| Kentang | kg | **Rp20.288** | Rp11.200 | Rp45.000 | ▬ 0.00% |
-| Kacang Panjang | kg | **Rp15.940** | Rp7.667 | Rp39.600 | ▲ 0.28% |
-| Kangkung | kg | **Rp11.687** | Rp6.778 | Rp25.000 | ▼ 0.17% |
-| Sawi Hijau | kg | **Rp14.262** | Rp7.556 | Rp33.900 | ▲ 0.81% |
-| Kacang-Kacangan | kg | **Rp35.901** | Rp27.458 | Rp45.000 | ▲ 0.07% |
-| Ketimun | kg | **Rp12.807** | Rp5.000 | Rp25.000 | ▲ 1.64% |
-| Ketela Pohon | kg | **Rp9.289** | Rp3.750 | Rp30.000 | ▲ 0.06% |
-| Jeruk | kg | **Rp20.085** | Rp11.250 | Rp40.000 | ▬ 0.00% |
-| Pisang | kg | **Rp14.619** | Rp6.000 | Rp35.000 | ▬ 0.00% |
+| Bawang | kg | **Rp37.512** | Rp27.681 | Rp66.667 | ▲ 0.11% |
+| Cabai | kg | **Rp81.946** | Rp48.500 | Rp142.292 | ▲ 1.20% |
+| Tomat | kg | **Rp14.258** | Rp8.407 | Rp30.000 | ▲ 0.25% |
+| Kentang | kg | **Rp20.229** | Rp11.200 | Rp45.000 | ▼ 0.29% |
+| Kacang Panjang | kg | **Rp16.072** | Rp7.667 | Rp39.400 | ▲ 0.83% |
+| Kangkung | kg | **Rp11.747** | Rp6.778 | Rp25.000 | ▲ 0.51% |
+| Sawi Hijau | kg | **Rp14.189** | Rp7.444 | Rp31.900 | ▼ 0.51% |
+| Kacang-Kacangan | kg | **Rp35.941** | Rp27.125 | Rp45.000 | ▲ 0.11% |
+| Ketimun | kg | **Rp12.765** | Rp5.000 | Rp25.000 | ▼ 0.33% |
+| Ketela Pohon | kg | **Rp9.310** | Rp3.750 | Rp30.000 | ▲ 0.23% |
+| Jeruk | kg | **Rp20.175** | Rp11.250 | Rp40.000 | ▲ 0.45% |
+| Pisang | kg | **Rp14.620** | Rp6.000 | Rp35.000 | ▬ 0.00% |
 | **Lainnya** | | | | | |
-| Gula | kg | **Rp19.777** | Rp16.792 | Rp30.000 | ▬ 0.00% |
-| Minyak Sawit | liter | **Rp20.228** | Rp17.867 | Rp37.000 | ▬ 0.00% |
-| Garam | kg | **Rp11.493** | Rp8.667 | Rp20.000 | ▬ 0.00% |
+| Gula | kg | **Rp19.783** | Rp16.792 | Rp30.000 | ▬ 0.00% |
+| Minyak Sawit | liter | **Rp20.237** | Rp17.867 | Rp37.000 | ▬ 0.00% |
+| Garam | kg | **Rp11.494** | Rp8.667 | Rp20.000 | ▬ 0.00% |
 | Susu | liter | **Rp35.271** | Rp13.167 | Rp48.667 | ▬ 0.00% |
 
 | Komoditas | Satuan | Harga Rata-rata | Terendah | Tertinggi | Perubahan |
 |---|---|---|---|---|---|
 | **Bahan Pokok** | | | | | |
-| Beras | kg | **Rp15.084** | Rp13.478 | Rp21.500 | ▲ 0.05% |
+| Beras | kg | **Rp15.097** | Rp13.478 | Rp21.500 | ▲ 0.09% |
 | Jagung | kg | **Rp10.100** | Rp6.500 | Rp21.375 | ▬ 0.00% |
-| Kedelai | kg | **Rp15.637** | Rp11.812 | Rp38.667 | ▬ 0.00% |
-| Tepung Terigu | kg | **Rp13.506** | Rp10.583 | Rp23.000 | ▲ 0.05% |
+| Kedelai | kg | **Rp15.652** | Rp11.812 | Rp38.667 | ▲ 0.09% |
+| Tepung Terigu | kg | **Rp13.506** | Rp10.583 | Rp23.000 | ▬ 0.00% |
 | Mie Instan | pcs | **Rp3.481** | Rp3.000 | Rp5.000 | ▬ 0.00% |
 | **Daging & Telur** | | | | | |
-| Daging Ayam | kg | **Rp67.797** | Rp50.106 | Rp111.500 | ▬ 0.00% |
-| Daging Ruminansia | kg | **Rp124.790** | Rp92.083 | Rp170.000 | ▬ 0.00% |
-| Telur Ayam | kg | **Rp47.721** | Rp33.872 | Rp70.500 | ▼ 0.14% |
-| Ikan | kg | **Rp58.070** | Rp40.708 | Rp106.667 | ▲ 0.07% |
-| Udang | kg | **Rp77.441** | Rp53.333 | Rp125.000 | ▲ 0.15% |
+| Daging Ayam | kg | **Rp67.815** | Rp50.169 | Rp111.500 | ▬ 0.00% |
+| Daging Ruminansia | kg | **Rp124.751** | Rp92.083 | Rp170.000 | ▬ 0.00% |
+| Telur Ayam | kg | **Rp47.867** | Rp33.872 | Rp70.500 | ▲ 0.31% |
+| Ikan | kg | **Rp58.081** | Rp40.431 | Rp106.667 | ▬ 0.00% |
+| Udang | kg | **Rp77.401** | Rp53.333 | Rp125.000 | ▼ 0.05% |
 | **Sayur & Buah** | | | | | |
-| Bawang | kg | **Rp37.469** | Rp27.736 | Rp66.667 | ▼ 0.14% |
-| Cabai | kg | **Rp80.975** | Rp48.500 | Rp128.542 | ▲ 0.50% |
-| Tomat | kg | **Rp14.223** | Rp8.370 | Rp30.000 | ▲ 0.94% |
-| Kentang | kg | **Rp20.288** | Rp11.200 | Rp45.000 | ▬ 0.00% |
-| Kacang Panjang | kg | **Rp15.940** | Rp7.667 | Rp39.600 | ▲ 0.28% |
-| Kangkung | kg | **Rp11.687** | Rp6.778 | Rp25.000 | ▼ 0.17% |
-| Sawi Hijau | kg | **Rp14.262** | Rp7.556 | Rp33.900 | ▲ 0.81% |
-| Kacang-Kacangan | kg | **Rp35.901** | Rp27.458 | Rp45.000 | ▲ 0.07% |
-| Ketimun | kg | **Rp12.807** | Rp5.000 | Rp25.000 | ▲ 1.64% |
-| Ketela Pohon | kg | **Rp9.289** | Rp3.750 | Rp30.000 | ▲ 0.06% |
-| Jeruk | kg | **Rp20.085** | Rp11.250 | Rp40.000 | ▬ 0.00% |
-| Pisang | kg | **Rp14.619** | Rp6.000 | Rp35.000 | ▬ 0.00% |
+| Bawang | kg | **Rp37.512** | Rp27.681 | Rp66.667 | ▲ 0.11% |
+| Cabai | kg | **Rp81.946** | Rp48.500 | Rp142.292 | ▲ 1.20% |
+| Tomat | kg | **Rp14.258** | Rp8.407 | Rp30.000 | ▲ 0.25% |
+| Kentang | kg | **Rp20.229** | Rp11.200 | Rp45.000 | ▼ 0.29% |
+| Kacang Panjang | kg | **Rp16.072** | Rp7.667 | Rp39.400 | ▲ 0.83% |
+| Kangkung | kg | **Rp11.747** | Rp6.778 | Rp25.000 | ▲ 0.51% |
+| Sawi Hijau | kg | **Rp14.189** | Rp7.444 | Rp31.900 | ▼ 0.51% |
+| Kacang-Kacangan | kg | **Rp35.941** | Rp27.125 | Rp45.000 | ▲ 0.11% |
+| Ketimun | kg | **Rp12.765** | Rp5.000 | Rp25.000 | ▼ 0.33% |
+| Ketela Pohon | kg | **Rp9.310** | Rp3.750 | Rp30.000 | ▲ 0.23% |
+| Jeruk | kg | **Rp20.175** | Rp11.250 | Rp40.000 | ▲ 0.45% |
+| Pisang | kg | **Rp14.620** | Rp6.000 | Rp35.000 | ▬ 0.00% |
 | **Lainnya** | | | | | |
-| Gula | kg | **Rp19.777** | Rp16.792 | Rp30.000 | ▬ 0.00% |
-| Minyak Sawit | liter | **Rp20.228** | Rp17.867 | Rp37.000 | ▬ 0.00% |
-| Garam | kg | **Rp11.493** | Rp8.667 | Rp20.000 | ▬ 0.00% |
+| Gula | kg | **Rp19.783** | Rp16.792 | Rp30.000 | ▬ 0.00% |
+| Minyak Sawit | liter | **Rp20.237** | Rp17.867 | Rp37.000 | ▬ 0.00% |
+| Garam | kg | **Rp11.494** | Rp8.667 | Rp20.000 | ▬ 0.00% |
 | Susu | liter | **Rp35.271** | Rp13.167 | Rp48.667 | ▬ 0.00% |
 
 ## 👥 Kunjungan
