@@ -161,10 +161,6 @@ Pantauan harga rata-rata **26 komoditas barang kebutuhan pokok (sembako)** tingk
 {table}
 """
     footer = """
-## 👥 Kunjungan
-
-<img src="https://s01.flagcounter.com/countxl/qaoY/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Visitor Counter">
-
 ## 📈 Keterangan
 
 - **Harga Rata-rata** — rata-rata harga di seluruh provinsi Indonesia
