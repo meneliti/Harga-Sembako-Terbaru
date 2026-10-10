@@ -2,7 +2,7 @@
 
 Pantauan harga rata-rata **26 komoditas barang kebutuhan pokok (sembako)** tingkat provinsi di seluruh Indonesia, dikelompokkan per kategori agar mudah dibaca. Data diperbarui otomatis **setiap 6 jam** oleh script scraper di repo ini.
 
-> 📅 **Data per tanggal: 9 Oktober 2026** — terakhir diperbarui: 10 Oktober 2026, 17:17 WIB
+> 📅 **Data per tanggal: 9 Oktober 2026** — terakhir diperbarui: 10 Oktober 2026, 23:17 WIB
 
 ## 📊 Tabel Harga Sembako
 
